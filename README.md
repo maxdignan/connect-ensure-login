@@ -1,3 +1,6 @@
+###This fork is from /jaredhansons connect-ensure-login
+##I have made some changes to it for developer ease-of-use
+
 # connect-ensure-login
 
 This middleware ensures that a user is logged in.  If a request is received that
